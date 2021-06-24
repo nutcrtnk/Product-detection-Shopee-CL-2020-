@@ -1,6 +1,6 @@
 # Product Detection (Shopee Code League 2020)
 
-Source code for Shopee Code League - Product Detection Challenge (Rank 4 in Private, Rank 6 in Public) [(Kaggle Link)](https://www.kaggle.com/c/shopee-product-detection-open).
+Source code for Shopee Code League - Product Detection Challenge (Rank 4 in Private, Rank 6 in Public under a team named "Citebok") [(Kaggle Link)](https://www.kaggle.com/c/shopee-product-detection-open).
 
 ## Motivation
 The task was to identify the class of the product based on provided train data with labels (supervised). 
