@@ -22,18 +22,18 @@ To run:
 4. (optionally, run [train_con.py](train_con.py)) Run [train.py](train.py) for finetuning pretrained model in supervised manner. See arguments/options inside the file.
 5. Run [test.py](test.py) to obtain the test labels.
 
-To run the code with best performance setting, see [run.sh](run.sh).
+To run the code with the best performance setting, see [run.sh](run.sh).
 
 ## Results
 We achieved the best performance with EffNet B5 with fixing resolution 456->600.
 
 In the experiments, we found that:
 1. Using a good pretrained model pretrained on high-resolution images, e.g., EffNet B5-B7, could improve the performance significantly, compared to other modifications.
-2. Cross entropy achieved the best performance among loss functions. Some losses can drastically decrease the performance.
-3. Using augmentation technique has very little effect to the performance (less than 2%)
+2. Cross entropy achieved the best performance among loss functions. Some losses could drastically decrease the performance.
+3. Using augmentation technique had very little effect to the performance (less than 2%)
 4. Contrastive learning provided small increase in performance, but took much longer time for training.
 5. Transfer learning regularization and freezing yielded no improvement.
-6. Simply fixing train-test resolution discrepancy can impressively increase up to 5% performance.
+6. Simply fixing train-test resolution discrepancy could impressively increase up to 5% performance.
 
 ## Team members
 Nuttapong Chairatankul, Nontawat Charoenphakdee, Pannavat Terdchanakul, Zhenghang (Henry) Cui
