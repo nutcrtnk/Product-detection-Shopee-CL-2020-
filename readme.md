@@ -34,3 +34,9 @@ In the experiments, we found that:
 4. Contrastive learning provided small increase in performance, but took much longer time for training.
 5. Transfer learning regularization and freezing yielded no improvement.
 6. Simply fixing train-test resolution discrepancy can impressively increase up to 5% performance.
+
+## Team members
+Nuttapong Chairatankul
+Nontawat Charoenphakdee
+Pannavat Terdchanakul
+Zhenghang (Henry) Cui
