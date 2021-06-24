@@ -13,7 +13,7 @@ To solve the problem, we tried:
 5. transfer learning regularization and freezing (in [train.py](train.py))
 6. fixing train-test resolution discrepancy ([Touvron et al. NeurIPS 2019](https://papers.nips.cc/paper/2019/hash/d03a857a23b5285736c4d55e0bb067c8-Abstract.html)).
 
-## Run
+## Usage
 
 To run:
 1. Prepare dataset in *label*/*image_file* structure.
