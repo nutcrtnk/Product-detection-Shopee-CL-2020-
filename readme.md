@@ -36,4 +36,4 @@ In the experiments, we found that:
 6. Simply fixing train-test resolution discrepancy could impressively increase up to 5% performance.
 
 ## Team members
-Nuttapong Chairatankul, Nontawat Charoenphakdee, Pannavat Terdchanakul, Zhenghang (Henry) Cui
+Nuttapong Chairatanakul, Nontawat Charoenphakdee, Pannavat Terdchanakul, Zhenghang (Henry) Cui
